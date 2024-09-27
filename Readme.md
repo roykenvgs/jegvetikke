@@ -54,7 +54,7 @@ CSS
 
 ## Forventet resultat
 
-<img src="./bilder/bilder (1).jpeg" alt="bildet1" width="500" />
+<img src="./bilder/bilder (1).jpeg" alt="bildet1" width="550" />
 
 ![Image_1](./bilder/bilder (1).jpg)
 ![Image_2](./bilder/bilder (2).jpg)
